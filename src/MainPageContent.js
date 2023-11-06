@@ -1,7 +1,7 @@
 import React from 'react';
-import yellowBoxImage from './images/yellow_box.JPG'
-import blueBoxImage from './images/blue_box.JPG'
-import redBoxImage from './images/red_box.JPG'
+import yellowBoxImage from './images/boxes/yellow_box.JPG'
+import blueBoxImage from './images/boxes/blue_box.JPG'
+import redBoxImage from './images/boxes/red_box.JPG'
 import MapsSection from './MapsSection';
 
 function MainPageContent() {

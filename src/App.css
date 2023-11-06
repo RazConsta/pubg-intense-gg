@@ -152,9 +152,15 @@ li, h1, h2 {
   /* Other styles like font size, color, etc. */
 }
 
-.maps-section {
-  text-align: center;
-  margin-top: 50px; /* Add spacing above the Maps section */
+.image-row {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+
+.image-row section {
+  list-style: none;
+  flex: 0 0 33.333333%;
 }
 
 .map-images {
@@ -193,4 +199,31 @@ li, h1, h2 {
   font-size: 25px;
   color: orange;
 }
+
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.location-section {
+  flex: 0 0 calc(33.33% - 10px);
+  margin: 10px 0;
+  text-align: center;
+  max-width: calc(33.33% - 10px);
+  box-sizing: border-box;
+}
+
+.location-section h2 {
+  margin-top: 10px;
+}
+
+.location-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+
 

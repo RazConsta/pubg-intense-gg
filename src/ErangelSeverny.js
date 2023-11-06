@@ -1,13 +1,13 @@
 import React from 'react';
-import yellowBoxImage from './images/yellow_box.JPG';
-import blueBoxImage from './images/blue_box.JPG';
-// import landingSpot1Image from './images/landing_spot_1.jpg';
-// import landingSpot2Image from './images/landing_spot_2.jpg';
-// import landingSpot3Image from './images/landing_spot_3.jpg';
+import yellowBoxImage from './images/boxes/yellow_box.JPG';
+import blueBoxImage from './images/boxes/blue_box.JPG';
+import landingSpot1Image from './images/maps/erangel/areas/severny.jpg';
+import landingSpot2Image from './images/maps/erangel/areas/severny.jpg';
+import landingSpot3Image from './images/maps/erangel/areas/severny.jpg';
 
-import landingSpot1Image from './images/severny_city.png';
-import landingSpot2Image from './images/severny_city.png';
-import landingSpot3Image from './images/severny_houses.png';
+// import landingSpot1Image from './images/severny_city.png';
+// import landingSpot2Image from './images/severny_city.png';
+// import landingSpot3Image from './images/severny_houses.png';
 
 function ErangelSeverny() {
   return (
@@ -17,7 +17,6 @@ function ErangelSeverny() {
         <img src={yellowBoxImage} alt="Yellow Box Location" />
         <img src={blueBoxImage} alt="Blue Box Location" />
       </section>
-
       <section className="location-section">
         <h2>Landing Spots</h2>
         <div className="landing-spot">

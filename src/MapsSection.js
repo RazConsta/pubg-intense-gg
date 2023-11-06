@@ -1,12 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import erangelImage from './images/erangel.jpeg';
-import miramarImage from './images/miramar.jpeg';
-import vikendiImage from './images/vikendi.png';
-import sanhokImage from './images/sanhok.png';
-import taegoImage from './images/taego.JPG';
-import destonImage from './images/deston.jpeg';
+import erangelImage from './images/maps/erangel/erangel.jpeg';
+import miramarImage from './images/maps/miramar/miramar.jpeg';
+import vikendiImage from './images/maps/vikendi/vikendi.png';
+import sanhokImage from './images/maps/sanhok/sanhok.png';
+import taegoImage from './images/maps/taego/taego.JPG';
+import destonImage from './images/maps/deston/deston.jpeg';
 
 function MapsSection() {
   const maps = [
