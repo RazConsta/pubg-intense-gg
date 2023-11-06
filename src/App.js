@@ -31,15 +31,15 @@ function App() {
           </ul>
         </nav>
         <Routes>
-        <Route path="/" element={<MainPageContent />} />
-          <Route path="/basics" element={<MainPageContent />} />
-          <Route path="/erangel" element={<Erangel />} />
-          <Route path="/erangel/severny" element={<ErangelSeverny />} />
-          <Route path="/miramar" element={<Miramar />} />
-          <Route path="/sanhok" element={<Sanhok />} />
-          <Route path="/vikendi" element={<Vikendi />} />
-          <Route path="/deston" element={<Deston />} />
-          <Route path="/taego" element={<Taego />} />
+        <Route path="" element={<MainPageContent />} />
+          <Route path="basics" element={<MainPageContent />} />
+          <Route path="erangel" element={<Erangel />} />
+          <Route path="erangel/severny" element={<ErangelSeverny />} />
+          <Route path="miramar" element={<Miramar />} />
+          <Route path="sanhok" element={<Sanhok />} />
+          <Route path="vikendi" element={<Vikendi />} />
+          <Route path="deston" element={<Deston />} />
+          <Route path="taego" element={<Taego />} />
         </Routes>
       </div>
     </Router>
