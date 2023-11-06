@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Routes, Link, HashRouter } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import pubgLogo from './images/logos/pubg_logo.png'
 import ibrLogo from './images/logos/ibr.JPG'
 import MainPageContent from './MainPageContent';
@@ -30,7 +30,8 @@ function App() {
             <li className="nav-item"><a href="/deston">Deston</a></li>
           </ul>
         </nav>
-        <HashRouter>
+        <MainPageContent/>
+        <Routes>
           <Route path="/basics" element={<MainPageContent />} />
           <Route path="/erangel" element={<Erangel />} />
           <Route path="/erangel/severny" element={<ErangelSeverny />} />
@@ -39,7 +40,7 @@ function App() {
           <Route path="/vikendi" element={<Vikendi />} />
           <Route path="/deston" element={<Deston />} />
           <Route path="/taego" element={<Taego />} />
-        </HashRouter>
+        </Routes>
       </div>
     </Router>
   );
