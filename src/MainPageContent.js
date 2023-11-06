@@ -7,6 +7,9 @@ import MapsSection from './MapsSection';
 function MainPageContent() {
     return (
         <div>
+            <div>
+                <MapsSection />
+            </div>
             <div className="main-content">
                 <h2>The Basics of PUBG Intense</h2>
                 <div className="text-content">
@@ -53,9 +56,6 @@ function MainPageContent() {
                         </div>
                     </div>
                 </div>
-            </div>
-            <div>
-                <MapsSection />
             </div>
         </div>
 
