@@ -10,7 +10,7 @@ function Deston() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
+ 
   const locationData = [
     { name: 'Barclift', image: barcliftImage },
     { name: 'Holston Meadows', image: holstonMeadowsImage },
