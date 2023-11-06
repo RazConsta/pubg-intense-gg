@@ -12,8 +12,8 @@ function MapsSection() {
   const maps = [
     { name: 'Erangel', path: '/erangel', image: erangelImage },
     { name: 'Miramar', path: '/miramar', image: miramarImage },
-    { name: 'Vikendi', path: '/vikendi', image: vikendiImage },
     { name: 'Sanhok', path: '/sanhok', image: sanhokImage },
+    { name: 'Vikendi', path: '/vikendi', image: vikendiImage },
     { name: 'Taego', path: '/taego', image: taegoImage },
     { name: 'Deston', path: '/deston', image: destonImage },
   ];
