@@ -1,14 +1,14 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import pubgLogo from './images/logos/pubg_logo.png'
 import ibrLogo from './images/logos/ibr.JPG'
 import MainPageContent from './MainPageContent';
-import Erangel from './Erangel';
-import Miramar from './Miramar';
-import Sanhok from './Sanhok'
-import Vikendi from './Vikendi'
-import Taego from './Taego';
-import Deston from './Deston';
+import Erangel from './areas-pages/Erangel';
+import Miramar from './areas-pages/Miramar';
+import Sanhok from './areas-pages/Sanhok'
+import Vikendi from './areas-pages/Vikendi'
+import Taego from './areas-pages/Taego';
+import Deston from './areas-pages/Deston';
 
 import ErangelSeverny from './ErangelSeverny';
 
@@ -33,13 +33,13 @@ function App() {
         <Routes>
         <Route path="" element={<MainPageContent />} />
           <Route path="basics" element={<MainPageContent />} />
-          <Route path="erangel" element={<Erangel />} />
-          <Route path="erangel/severny" element={<ErangelSeverny />} />
-          <Route path="miramar" element={<Miramar />} />
-          <Route path="sanhok" element={<Sanhok />} />
-          <Route path="vikendi" element={<Vikendi />} />
-          <Route path="deston" element={<Deston />} />
-          <Route path="taego" element={<Taego />} />
+          <Route path="erangel/*" element={<Erangel />} />
+          {/* <Route path="erangel/severny" element={<ErangelSeverny />} /> */}
+          <Route path="miramar/*" element={<Miramar />} />
+          <Route path="sanhok/*" element={<Sanhok />} />
+          <Route path="vikendi/*" element={<Vikendi />} />
+          <Route path="deston/*" element={<Deston />} />
+          <Route path="taego/*" element={<Taego />} />
         </Routes>
       </div>
     </Router>
