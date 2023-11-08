@@ -1,20 +1,20 @@
-import './App.css';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import pubgLogo from './images/logos/pubg_logo.png'
-import ibrLogo from './images/logos/ibr.JPG'
-import MainPageContent from './MainPageContent';
-import Erangel from './areas-pages/Erangel';
-import Miramar from './areas-pages/Miramar';
-import Sanhok from './areas-pages/Sanhok'
-import Vikendi from './areas-pages/Vikendi'
-import Taego from './areas-pages/Taego';
-import Deston from './areas-pages/Deston';
-
-import ErangelSeverny from './ErangelSeverny';
+import "./App.css";
+import { BrowserRouter, HashRouter, Route, Routes, Link } from "react-router-dom";
+import pubgLogo from "./images/logos/pubg_logo.png";
+import ibrLogo from "./images/logos/ibr.JPG";
+import MainPageContent from "./MainPageContent";
+import Erangel from "./areas-pages/Erangel";
+import Miramar from "./areas-pages/Miramar";
+import Sanhok from "./areas-pages/Sanhok";
+import Vikendi from "./areas-pages/Vikendi";
+import Taego from "./areas-pages/Taego";
+import Deston from "./areas-pages/Deston";
 
 function App() {
   return (
-    <Router>
+    // uncomment before running "npm run deploy"
+    // <BrowserRouter basename="basename={process.env.PUBLIC_URL}">
+    <BrowserRouter>
       <div className="App">
         <nav className="navbar">
           <img src={[pubgLogo]} alt="PUBG Logo" className="logo" />
@@ -31,10 +31,9 @@ function App() {
           </ul>
         </nav>
         <Routes>
-        <Route path="" element={<MainPageContent />} />
+          <Route path="*" element={<MainPageContent />} />
           <Route path="basics" element={<MainPageContent />} />
           <Route path="erangel/*" element={<Erangel />} />
-          {/* <Route path="erangel/severny" element={<ErangelSeverny />} /> */}
           <Route path="miramar/*" element={<Miramar />} />
           <Route path="sanhok/*" element={<Sanhok />} />
           <Route path="vikendi/*" element={<Vikendi />} />
@@ -42,7 +41,7 @@ function App() {
           <Route path="taego/*" element={<Taego />} />
         </Routes>
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 
