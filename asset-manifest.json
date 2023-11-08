@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pubg-intense-gg/static/css/main.47f42ce3.css",
-    "main.js": "/pubg-intense-gg/static/js/main.86813658.js",
+    "main.js": "/pubg-intense-gg/static/js/main.a58ccc74.js",
     "static/js/787.878314bf.chunk.js": "/pubg-intense-gg/static/js/787.878314bf.chunk.js",
     "static/media/vikendi.png": "/pubg-intense-gg/static/media/vikendi.e8688011042866bfec12.png",
     "static/media/coal-mine.jpg": "/pubg-intense-gg/static/media/coal-mine.cdb22cc78d482d2ffe55.jpg",
@@ -44,11 +44,11 @@
     "static/media/blue_box.JPG": "/pubg-intense-gg/static/media/blue_box.9606e966782010c683ef.JPG",
     "index.html": "/pubg-intense-gg/index.html",
     "main.47f42ce3.css.map": "/pubg-intense-gg/static/css/main.47f42ce3.css.map",
-    "main.86813658.js.map": "/pubg-intense-gg/static/js/main.86813658.js.map",
+    "main.a58ccc74.js.map": "/pubg-intense-gg/static/js/main.a58ccc74.js.map",
     "787.878314bf.chunk.js.map": "/pubg-intense-gg/static/js/787.878314bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47f42ce3.css",
-    "static/js/main.86813658.js"
+    "static/js/main.a58ccc74.js"
   ]
 }
