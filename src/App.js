@@ -20,7 +20,7 @@ function App() {
           <img src={[pubgLogo]} alt="PUBG Logo" className="logo" />
           <img src={[ibrLogo]} alt="IBR Logo" className="logo" />
           <h1 className="title">Survival Guide</h1>
-          <ul className="nav-links">
+          {/* <ul className="nav-links">
             <li className="nav-item"><a href="/basics">Basics</a></li>
             <li className="nav-item"><a href="/erangel">Erangel</a></li>
             <li className="nav-item"><a href="/miramar">Miramar</a></li>
@@ -28,7 +28,7 @@ function App() {
             <li className="nav-item"><a href="/vikendi">Vikendi</a></li>
             <li className="nav-item"><a href="/taego">Taego</a></li>
             <li className="nav-item"><a href="/deston">Deston</a></li>
-          </ul>
+          </ul> */}
         </nav>
         <Routes>
           <Route path="*" element={<MainPageContent />} />
