@@ -28,7 +28,7 @@ function MainPageContent() {
               <li>Phase 4 - + 1m</li>
               <li>Phase 5 - </li>
             </ul>
-            <h3>These are the number of yellow boxes I was able to map for each map:</h3>
+            <h3>These are the number of yellow boxes I was able to map for each map (98 total):</h3>
             <ul>
               <li>Deston</li>
               <ul>
