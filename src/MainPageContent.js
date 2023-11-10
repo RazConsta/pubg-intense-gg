@@ -50,15 +50,15 @@ function MainPageContent() {
               <ul>
                 <li>El Azahar - 4</li>
                 <li>Los Leones - 5</li>
-                <li>Monte Nuevo - 6</li>
+                <li>✔️ Monte Nuevo - 6</li>
                 <li>Resort - 0</li>
                 <li>Water Treatment - 4</li>
               </ul>
               <li>Sanhok</li>
               <ul>
-                <li>Bootcamp - 4</li>
-                <li>Paradise Resort - 4</li>
-                <li>Ruins - 4</li>
+                <li>✔️ Bootcamp - 4</li>
+                <li>✔️ Paradise Resort - 4</li>
+                <li>✔️ Ruins - 4</li>
               </ul>
               <li>Taego</li>
               <ul>
@@ -66,13 +66,13 @@ function MainPageContent() {
                 <li>Fishing Camp - 5</li>
                 <li>Go Dok - 2</li>
                 <li>Song Am - 4</li>
-                <li>Wol Song - 5</li>
+                <li>✔️ Wol Song - 6</li>
               </ul>
               <li>Deston</li>
               <ul>
                 <li>Coal Mine - 3</li>
                 <li>Lumber Yard - 5</li>
-                <li>Observatory - 6</li>
+                <li>✔️ Observatory - 6</li>
                 <li>Villa - 3</li>
                 <li>Winery - 5</li>
               </ul>
