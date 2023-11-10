@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d739dce7.css",
-    "main.js": "/static/js/main.caff00c4.js",
+    "main.js": "/static/js/main.a7f8ab2b.js",
     "static/js/787.878314bf.chunk.js": "/static/js/787.878314bf.chunk.js",
     "static/media/vikendi.png": "/static/media/vikendi.e8688011042866bfec12.png",
     "static/media/coal-mine.jpg": "/static/media/coal-mine.cdb22cc78d482d2ffe55.jpg",
@@ -44,11 +44,11 @@
     "static/media/yellow_box.JPG": "/static/media/yellow_box.df16763818987b98f728.JPG",
     "index.html": "/index.html",
     "main.d739dce7.css.map": "/static/css/main.d739dce7.css.map",
-    "main.caff00c4.js.map": "/static/js/main.caff00c4.js.map",
+    "main.a7f8ab2b.js.map": "/static/js/main.a7f8ab2b.js.map",
     "787.878314bf.chunk.js.map": "/static/js/787.878314bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d739dce7.css",
-    "static/js/main.caff00c4.js"
+    "static/js/main.a7f8ab2b.js"
   ]
 }
