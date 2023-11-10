@@ -34,7 +34,7 @@ function MainPageContent() {
               <ul>
                 <li>Barclift - 2</li>
                 <li>Holston Meadows - 3</li>
-                <li>Hydroelectric Dam - 3</li>
+                <li>✔️ Hydroelectric Dam - 6</li>
                 <li>Lodge - 4</li>
                 <li>Swamp - 1</li>
               </ul>
@@ -48,7 +48,7 @@ function MainPageContent() {
               </ul>
               <li>Miramar</li>
               <ul>
-                <li>El Azahar - 4</li>
+                <li>El Azahar - 5</li>
                 <li>Los Leones - 5</li>
                 <li>✔️ Monte Nuevo - 6</li>
                 <li>Resort - 0</li>
@@ -64,16 +64,16 @@ function MainPageContent() {
               <ul>
                 <li>Airport - 4</li>
                 <li>Fishing Camp - 5</li>
-                <li>Go Dok - 2</li>
+                <li>Go Dok - 5</li>
                 <li>Song Am - 4</li>
                 <li>✔️ Wol Song - 6</li>
               </ul>
-              <li>Deston</li>
+              <li>Vikendi</li>
               <ul>
-                <li>Coal Mine - 3</li>
+                <li>Coal Mine - 4</li>
                 <li>Lumber Yard - 5</li>
                 <li>✔️ Observatory - 6</li>
-                <li>Villa - 3</li>
+                <li>Villa - 5</li>
                 <li>Winery - 5</li>
               </ul>
             </ul>
