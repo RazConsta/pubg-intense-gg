@@ -48,7 +48,7 @@ function MainPageContent() {
               </ul>
               <li>Miramar</li>
               <ul>
-                <li>El Azahar - 5</li>
+                <li>✔️✔️El Azahar - 6</li>
                 <li>Los Leones - 5</li>
                 <li>✔️ Monte Nuevo - 6</li>
                 <li>Resort - 0</li>
