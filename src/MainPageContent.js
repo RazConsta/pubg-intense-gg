@@ -28,21 +28,21 @@ function MainPageContent() {
               <li>Phase 4 - + 1m</li>
               <li>Phase 5 - </li>
             </ul>
-            <h3>These are the number of yellow boxes I was able to map for each map (98 total):</h3>
+            <h3>These are the number of yellow boxes I was able to map for each map (106 total):</h3>
             <ul>
               <li>Deston</li>
               <ul>
                 <li>Barclift - 2</li>
-                <li>Holston Meadows - 3</li>
+                <li>Holston Meadows - 5</li>
                 <li>✔️ Hydroelectric Dam - 6</li>
-                <li>Lodge - 4</li>
+                <li>Lodge - 4/5(1 is outside?)</li>
                 <li>Swamp - 1</li>
               </ul>
               <li>Erangel</li>
               <ul>
-                <li>Farm - 1</li>
+                <li>Farm - 3</li>
                 <li>Georgopol - 3</li>
-                <li>Hospital - 2</li>
+                <li>Hospital - 4</li>
                 <li>Mansion - 5</li>
                 <li>Severny - 3</li>
               </ul>
@@ -63,7 +63,7 @@ function MainPageContent() {
               <li>Taego</li>
               <ul>
                 <li>Airport - 4</li>
-                <li>Fishing Camp - 5</li>
+                <li>✔️ Fishing Camp - 6</li>
                 <li>Go Dok - 5</li>
                 <li>Song Am - 4</li>
                 <li>✔️ Wol Song - 6</li>
@@ -73,7 +73,7 @@ function MainPageContent() {
                 <li>Coal Mine - 4</li>
                 <li>Lumber Yard - 5</li>
                 <li>✔️ Observatory - 6</li>
-                <li>Villa - 5</li>
+                <li>✔️ Villa - 6</li>
                 <li>Winery - 5</li>
               </ul>
             </ul>
