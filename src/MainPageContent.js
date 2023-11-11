@@ -40,7 +40,7 @@ function MainPageContent() {
               </ul>
               <li>Erangel</li>
               <ul>
-                <li>Farm - 3</li>
+                <li>✔️ Farm - 6</li>
                 <li>✔️ Georgopol - 6</li>
                 <li>✔️ Hospital - 6</li>
                 <li>Mansion - 5</li>
