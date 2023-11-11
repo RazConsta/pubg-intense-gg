@@ -34,7 +34,7 @@ function MainPageContent() {
               <ul>
                 <li>Barclift - 2</li>
                 <li>Holston Meadows - 5</li>
-                <li>✔️ Hydroelectric Dam - 6</li>
+                <li>✔️✔️ Hydroelectric Dam - 6</li>
                 <li>Lodge - 4/5(1 is outside?)</li>
                 <li>Swamp - 1</li>
               </ul>
@@ -72,7 +72,7 @@ function MainPageContent() {
               <ul>
                 <li>Coal Mine - 4</li>
                 <li>Lumber Yard - 5</li>
-                <li>✔️ Observatory - 6</li>
+                <li>✔️✔️ Observatory - 6</li>
                 <li>✔️ Villa - 6</li>
                 <li>Winery - 5</li>
               </ul>
