@@ -28,12 +28,12 @@ function MainPageContent() {
               <li>Phase 4 - + 1m</li>
               <li>Phase 5 - </li>
             </ul>
-            <h3>These are the number of yellow boxes I was able to map for each map (106 total):</h3>
+            <h3>These are the number of yellow boxes I was able to map for each map (140 total):</h3>
             <ul>
               <li>Deston</li>
               <ul>
-                <li>Barclift - 4</li>
-                <li>Holston Meadows - 5</li>
+                <li>Barclift - 5</li>
+                <li>✔️ Holston Meadows - 6</li>
                 <li>✔️✔️ Hydroelectric Dam - 6</li>
                 <li>Lodge - 4/5(1 is outside?)</li>
                 <li>Swamp - 1</li>
@@ -65,7 +65,7 @@ function MainPageContent() {
                 <li>Airport - 5</li>
                 <li>✔️ Fishing Camp - 6</li>
                 <li>✔️ Go Dok - 6</li>
-                <li>Song Am - 4</li>
+                <li>Song Am - 5</li>
                 <li>✔️ Wol Song - 6</li>
               </ul>
               <li>Vikendi</li>
