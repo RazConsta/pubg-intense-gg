@@ -62,15 +62,15 @@ function MainPageContent() {
               </ul>
               <li>Taego</li>
               <ul>
-                <li>Airport - 4</li>
+                <li>Airport - 5</li>
                 <li>✔️ Fishing Camp - 6</li>
-                <li>Go Dok - 5</li>
+                <li>✔️ Go Dok - 6</li>
                 <li>Song Am - 4</li>
                 <li>✔️ Wol Song - 6</li>
               </ul>
               <li>Vikendi</li>
               <ul>
-                <li>Coal Mine - 5</li>
+                <li>✔️ Coal Mine - 6</li>
                 <li>✔️ Lumber Yard - 6</li>
                 <li>✔️✔️ Observatory - 6</li>
                 <li>✔️ Villa - 6</li>
