@@ -32,7 +32,7 @@ function MainPageContent() {
             <ul>
               <li>Deston</li>
               <ul>
-                <li>Barclift - 2</li>
+                <li>Barclift - 4</li>
                 <li>Holston Meadows - 5</li>
                 <li>✔️✔️ Hydroelectric Dam - 6</li>
                 <li>Lodge - 4/5(1 is outside?)</li>
@@ -43,7 +43,7 @@ function MainPageContent() {
                 <li>✔️ Farm - 6</li>
                 <li>✔️ Georgopol - 6</li>
                 <li>✔️ Hospital - 6</li>
-                <li>Mansion - 5</li>
+                <li>✔️ Mansion - 6</li>
                 <li>Severny - 4</li>
               </ul>
               <li>Miramar</li>
