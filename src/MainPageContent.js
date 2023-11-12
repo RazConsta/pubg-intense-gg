@@ -70,8 +70,8 @@ function MainPageContent() {
               </ul>
               <li>Vikendi</li>
               <ul>
-                <li>Coal Mine - 4</li>
-                <li>Lumber Yard - 5</li>
+                <li>Coal Mine - 5</li>
+                <li>✔️ Lumber Yard - 6</li>
                 <li>✔️✔️ Observatory - 6</li>
                 <li>✔️ Villa - 6</li>
                 <li>Winery - 5</li>
