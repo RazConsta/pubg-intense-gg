@@ -28,13 +28,13 @@ function MainPageContent() {
               <li>Phase 4 - + 1m</li>
               <li>Phase 5 - </li>
             </ul>
-            <h3>These are the number of yellow boxes I was able to map for each map (143 total):</h3>
+            <h3>These are the number of yellow boxes I was able to map for each map (145 total):</h3>
             <ul>
               <li>Deston</li>
               <ul>
                 <li>Barclift - 5</li>
                 <li>✔️ Holston Meadows - 6</li>
-                <li>✔️✔️ Hydroelectric Dam - 6</li>
+                <li>✔️ Hydroelectric Dam - 6</li>
                 <li>Lodge - 4/5(1 is outside?)</li>
                 <li>Swamp - 1</li>
               </ul>
@@ -48,7 +48,7 @@ function MainPageContent() {
               </ul>
               <li>Miramar</li>
               <ul>
-                <li>✔️✔️El Azahar - 6</li>
+                <li>✔️ El Azahar - 6</li>
                 <li>✔️ Los Leones - 6</li>
                 <li>✔️ Monte Nuevo - 6</li>
                 <li>Resort - 2</li>
@@ -72,7 +72,7 @@ function MainPageContent() {
               <ul>
                 <li>✔️ Coal Mine - 6</li>
                 <li>✔️ Lumber Yard - 6</li>
-                <li>✔️✔️ Observatory - 6</li>
+                <li>✔️ Observatory - 6</li>
                 <li>✔️ Villa - 6</li>
                 <li>Winery - 5</li>
               </ul>
