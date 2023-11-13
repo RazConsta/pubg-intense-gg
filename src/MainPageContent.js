@@ -44,7 +44,7 @@ function MainPageContent() {
                 <li>✔️ Georgopol - 6</li>
                 <li>✔️ Hospital - 6</li>
                 <li>✔️ Mansion - 6</li>
-                <li>Severny - 4</li>
+                <li>✔️ Severny - 6</li>
               </ul>
               <li>Miramar</li>
               <ul>
