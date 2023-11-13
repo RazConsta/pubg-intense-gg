@@ -36,7 +36,7 @@ function MainPageContent() {
                 <li>✔️ Holston Meadows - 6</li>
                 <li>✔️ Hydroelectric Dam - 6</li>
                 <li>Lodge - 4/5(1 is outside?)</li>
-                <li>Swamp - 1</li>
+                <li>Swamp - 3</li>
               </ul>
               <li>Erangel</li>
               <ul>
