@@ -28,7 +28,7 @@ function MainPageContent() {
               <li>Phase 4 - + 1m</li>
               <li>Phase 5 - </li>
             </ul>
-            <h3>These are the number of yellow boxes I was able to map for each map (142 total):</h3>
+            <h3>These are the number of yellow boxes I was able to map for each map (143 total):</h3>
             <ul>
               <li>Deston</li>
               <ul>
@@ -49,7 +49,7 @@ function MainPageContent() {
               <li>Miramar</li>
               <ul>
                 <li>✔️✔️El Azahar - 6</li>
-                <li>Los Leones - 5</li>
+                <li>✔️ Los Leones - 6</li>
                 <li>✔️ Monte Nuevo - 6</li>
                 <li>Resort - 2</li>
                 <li>Water Treatment - 4</li>
