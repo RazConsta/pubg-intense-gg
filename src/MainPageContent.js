@@ -40,7 +40,7 @@ function MainPageContent() {
               </ul>
               <li>Erangel</li>
               <ul>
-                <li>✔️ Farm - 6</li>
+                <li> Farm - 5</li>
                 <li>✔️ Georgopol - 6</li>
                 <li>✔️ Hospital - 6</li>
                 <li>✔️ Mansion - 6</li>
@@ -52,7 +52,7 @@ function MainPageContent() {
                 <li>✔️ Los Leones - 6</li>
                 <li>✔️ Monte Nuevo - 6</li>
                 <li>Resort - 2</li>
-                <li>Water Treatment - 4</li>
+                <li>Water Treatment - 5</li>
               </ul>
               <li>Sanhok</li>
               <ul>
