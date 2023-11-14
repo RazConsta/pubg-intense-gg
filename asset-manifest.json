@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d739dce7.css",
-    "main.js": "/static/js/main.b2f26934.js",
+    "main.js": "/static/js/main.f6a05abd.js",
     "static/js/787.878314bf.chunk.js": "/static/js/787.878314bf.chunk.js",
     "static/media/vikendi.png": "/static/media/vikendi.e8688011042866bfec12.png",
     "static/media/coal-mine.jpg": "/static/media/coal-mine.566094eeafb4ac4cd6e7.jpg",
@@ -31,7 +31,7 @@
     "static/media/barclift.jpg": "/static/media/barclift.2f72793e7b6852e11f43.jpg",
     "static/media/holston-meadows.jpg": "/static/media/holston-meadows.95cd4d842f6e35b587e5.jpg",
     "static/media/paradise-resort.jpg": "/static/media/paradise-resort.373fd75b33bf7cc63090.jpg",
-    "static/media/bootcamp.jpg": "/static/media/bootcamp.1e9ef0ffc3abdf5f5f21.jpg",
+    "static/media/bootcamp.jpg": "/static/media/bootcamp.6a3449a192b83450d2bd.jpg",
     "static/media/ruins.jpg": "/static/media/ruins.f6d61fbb0db6f432cea6.jpg",
     "static/media/swamp.jpg": "/static/media/swamp.140224e501ac8b885a32.jpg",
     "static/media/sanhok.png": "/static/media/sanhok.2585dacba39adb25b1dc.png",
@@ -44,11 +44,11 @@
     "static/media/yellow_box.JPG": "/static/media/yellow_box.df16763818987b98f728.JPG",
     "index.html": "/index.html",
     "main.d739dce7.css.map": "/static/css/main.d739dce7.css.map",
-    "main.b2f26934.js.map": "/static/js/main.b2f26934.js.map",
+    "main.f6a05abd.js.map": "/static/js/main.f6a05abd.js.map",
     "787.878314bf.chunk.js.map": "/static/js/787.878314bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d739dce7.css",
-    "static/js/main.b2f26934.js"
+    "static/js/main.f6a05abd.js"
   ]
 }
