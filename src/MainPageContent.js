@@ -35,7 +35,7 @@ function MainPageContent() {
                 <li>Barclift - 5</li>
                 <li>✔️ Holston Meadows - 6</li>
                 <li>✔️ Hydroelectric Dam - 6</li>
-                <li>Lodge - 4/5(1 is outside?)</li>
+                <li>✔️ Lodge - 6 (+1 outside)</li>
                 <li>Swamp - 3</li>
               </ul>
               <li>Erangel</li>
@@ -52,7 +52,7 @@ function MainPageContent() {
                 <li>✔️ Los Leones - 6</li>
                 <li>✔️ Monte Nuevo - 6</li>
                 <li>Resort - 2</li>
-                <li>Water Treatment - 5</li>
+                <li>✔️ Water Treatment - 6</li>
               </ul>
               <li>Sanhok</li>
               <ul>
