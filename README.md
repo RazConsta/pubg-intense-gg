@@ -1,3 +1,10 @@
+Credits: 
+
+Thanks to https://half-6.github.io/lf-freehand-cropper/ for the freehand crops of the yellow and blue location markers.
+Thanks to https://onlinepngtools.com/resize-png for enlarging the location markers to 50px wide.
+Thanks to sumner for helping me find the last 10% of yellow boxes and assising me with finding the blue boxes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
