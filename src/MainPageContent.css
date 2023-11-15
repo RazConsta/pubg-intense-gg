@@ -77,6 +77,7 @@
     font-size: 14px;
   }
 
+/* ********************************************************************** */
 /* Table Style */
 table {
   width: 100%;
@@ -88,8 +89,10 @@ th, td {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
+  width: 20%;
 }
 
 th {
   background-color: #f2f2f2;
 }
+/* ********************************************************************** */
