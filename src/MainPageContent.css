@@ -76,4 +76,20 @@
     margin-bottom: 5px;
     font-size: 14px;
   }
-  
+
+/* Table Style */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
