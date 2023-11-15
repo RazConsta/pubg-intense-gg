@@ -10,7 +10,7 @@ function MainPageContent() {
     {
       map: "Deston",
       locations: [
-        { name: "Barclift", yellowBoxes: 5, blueBoxes: 0 },
+        { name: "Barclift", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Holston Meadows", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Hydroelectric Dam", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Lodge (+1 outside)", yellowBoxes: '✔️ 6', blueBoxes: 1 },
@@ -20,7 +20,7 @@ function MainPageContent() {
     {
       map: "Erangel",
       locations: [
-        { name: "Farm", yellowBoxes: 5, blueBoxes: 0 },
+        { name: "Farm", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Georgopol", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Hospital", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Mansion", yellowBoxes: '✔️ 6', blueBoxes: 0 },
@@ -48,7 +48,7 @@ function MainPageContent() {
     {
       map: "Taego",
       locations: [
-        { name: "Airport", yellowBoxes: 5, blueBoxes: 0 },
+        { name: "Airport", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Fishing Camp", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Go Dok", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Song Am", yellowBoxes: 5, blueBoxes: 0 },
