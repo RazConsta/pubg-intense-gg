@@ -14,7 +14,7 @@ function MainPageContent() {
         { name: "Holston Meadows", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Hydroelectric Dam", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Lodge (+1 outside)", yellowBoxes: '✔️ 6', blueBoxes: 1 },
-        { name: "Swamp", yellowBoxes: 3, blueBoxes: 0 },
+        { name: "Swamp", yellowBoxes: 4, blueBoxes: 0 },
       ],
     },
     {
