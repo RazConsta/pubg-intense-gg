@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d739dce7.css",
-    "main.js": "/static/js/main.f6a05abd.js",
+    "main.css": "/static/css/main.0e2155ff.css",
+    "main.js": "/static/js/main.a9a2f355.js",
     "static/js/787.878314bf.chunk.js": "/static/js/787.878314bf.chunk.js",
     "static/media/vikendi.png": "/static/media/vikendi.e8688011042866bfec12.png",
     "static/media/coal-mine.jpg": "/static/media/coal-mine.566094eeafb4ac4cd6e7.jpg",
@@ -10,15 +10,15 @@
     "static/media/mansion.jpg": "/static/media/mansion.45951240b453cde813a8.jpg",
     "static/media/water-treatment.jpg": "/static/media/water-treatment.638f5853325ecb306af3.jpg",
     "static/media/pubg_logo.png": "/static/media/pubg_logo.2cc9e77eaf1b28e4dfa1.png",
-    "static/media/airport.jpg": "/static/media/airport.a1e375052daaa1f368e6.jpg",
+    "static/media/airport.jpg": "/static/media/airport.e4bbc212d7e72d2edf4a.jpg",
     "static/media/georgopol.jpg": "/static/media/georgopol.61977464663341204745.jpg",
     "static/media/villa.jpg": "/static/media/villa.17346c3af5fa8d6583ea.jpg",
-    "static/media/miramar.jpeg": "/static/media/miramar.b689085eda2c9269ba23.jpeg",
     "static/media/farm.jpg": "/static/media/farm.0b48e85cd97bd18ba3f5.jpg",
+    "static/media/miramar.jpeg": "/static/media/miramar.b689085eda2c9269ba23.jpeg",
     "static/media/el-azahar.jpg": "/static/media/el-azahar.ee204a53829b011f2a69.jpg",
     "static/media/song-am.jpg": "/static/media/song-am.ded634350f136e47b3c7.jpg",
     "static/media/winery.jpg": "/static/media/winery.948500a951aab07af913.jpg",
-    "static/media/resort.jpg": "/static/media/resort.d7d7a30e57f622ead89b.jpg",
+    "static/media/resort.jpg": "/static/media/resort.cf40418ef7f7fb3a4fd0.jpg",
     "static/media/fishing-camp.jpg": "/static/media/fishing-camp.1de124e24682e56365f8.jpg",
     "static/media/lumber-yard.jpg": "/static/media/lumber-yard.2ec09211124b90e58689.jpg",
     "static/media/hospital.jpg": "/static/media/hospital.f86cda351f220bb0b9c0.jpg",
@@ -43,12 +43,12 @@
     "static/media/blue_box.JPG": "/static/media/blue_box.fef017e1f2f1869cd543.JPG",
     "static/media/yellow_box.JPG": "/static/media/yellow_box.df16763818987b98f728.JPG",
     "index.html": "/index.html",
-    "main.d739dce7.css.map": "/static/css/main.d739dce7.css.map",
-    "main.f6a05abd.js.map": "/static/js/main.f6a05abd.js.map",
+    "main.0e2155ff.css.map": "/static/css/main.0e2155ff.css.map",
+    "main.a9a2f355.js.map": "/static/js/main.a9a2f355.js.map",
     "787.878314bf.chunk.js.map": "/static/js/787.878314bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d739dce7.css",
-    "static/js/main.f6a05abd.js"
+    "static/css/main.0e2155ff.css",
+    "static/js/main.a9a2f355.js"
   ]
 }
