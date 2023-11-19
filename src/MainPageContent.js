@@ -10,11 +10,11 @@ function MainPageContent() {
     {
       map: "Deston",
       locations: [
-        { name: "Barclift", yellowBoxes: '✔️ 6', blueBoxes: 0 },
+        { name: "Barclift", yellowBoxes: '5', blueBoxes: 0 },
         { name: "Holston Meadows", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Hydroelectric Dam", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Lodge (+1 outside)", yellowBoxes: '✔️ 6', blueBoxes: 1 },
-        { name: "Swamp", yellowBoxes: 4, blueBoxes: 0 },
+        { name: "Swamp", yellowBoxes: '✔️ 6', blueBoxes: 0 },
       ],
     },
     {
@@ -33,7 +33,7 @@ function MainPageContent() {
         { name: "El Azahar", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Los Leones", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Monte Nuevo", yellowBoxes: '✔️ 6', blueBoxes: 0 },
-        { name: "Resort", yellowBoxes: 2, blueBoxes: 0 },
+        { name: "Resort", yellowBoxes: 4, blueBoxes: 0 },
         { name: "Water Treatment", yellowBoxes: '✔️ 6', blueBoxes: 0 },
       ],
     },
@@ -89,7 +89,7 @@ function MainPageContent() {
               <li>Phase 4 - + 1m</li>
               <li>Phase 5 - </li>
             </ul>
-            <h3>These are the number of yellow and blue boxes I was able to map so far:</h3>
+            <h3>These are the number of yellow (157/162) and blue boxes I was able to map so far:</h3>
             {mapData.map((map, index) => (
           <div key={index}>
             <h4>{map.map}</h4>
