@@ -62,7 +62,7 @@ function MainPageContent() {
         { name: "Lumber Yard", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Observatory", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Villa", yellowBoxes: '✔️ 6', blueBoxes: 0 },
-        { name: "Winery", yellowBoxes: 5, blueBoxes: 0 },
+        { name: "Winery", yellowBoxes: '✔️ 6', blueBoxes: 0 },
       ],
     },
   ];
@@ -89,7 +89,7 @@ function MainPageContent() {
               <li>Phase 4 - + 1m</li>
               <li>Phase 5 - </li>
             </ul>
-            <h3>These are the number of yellow (157/162) and blue boxes I was able to map so far:</h3>
+            <h3>These are the number of yellow (158/162) and blue boxes I was able to map so far:</h3>
             {mapData.map((map, index) => (
           <div key={index}>
             <h4>{map.map}</h4>
