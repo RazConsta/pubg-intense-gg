@@ -10,7 +10,7 @@ function MainPageContent() {
     {
       map: "Deston",
       locations: [
-        { name: "Barclift", yellowBoxes: '5', blueBoxes: 0 },
+        { name: "Barclift", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Holston Meadows", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Hydroelectric Dam", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Lodge (+1 outside)", yellowBoxes: '✔️ 6', blueBoxes: 1 },
@@ -33,7 +33,7 @@ function MainPageContent() {
         { name: "El Azahar", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Los Leones", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Monte Nuevo", yellowBoxes: '✔️ 6', blueBoxes: 0 },
-        { name: "Resort", yellowBoxes: 4, blueBoxes: 0 },
+        { name: "Resort", yellowBoxes: 5, blueBoxes: 0 },
         { name: "Water Treatment", yellowBoxes: '✔️ 6', blueBoxes: 0 },
       ],
     },
@@ -50,7 +50,7 @@ function MainPageContent() {
       locations: [
         { name: "Airport", yellowBoxes: '✔️ 6', blueBoxes: 0 },
         { name: "Fishing Camp", yellowBoxes: '✔️ 6', blueBoxes: 0 },
-        { name: "Go Dok", yellowBoxes: '✔️ 6', blueBoxes: 0 },
+        { name: "Go Dok", yellowBoxes: '✔️ 7', blueBoxes: 0 },
         { name: "Song Am", yellowBoxes: 5, blueBoxes: 0 },
         { name: "Wol Song", yellowBoxes: '✔️ 6', blueBoxes: 0 },
       ],
