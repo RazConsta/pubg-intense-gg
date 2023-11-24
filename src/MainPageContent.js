@@ -82,6 +82,25 @@ function MainPageContent() {
               below. Use those to your advantage so that you know how much time
               you have before making your next move.
             </h3>
+            <br/>
+            <h3>
+              When spawning, players have 3 crates in their backpack: a random AR crate, 
+              a random SMG crate, and a random DMR/SR crate. Here are the possible 
+              contents of each.
+            </h3>
+            <br/>
+            <h3>
+            Random AR Crate (5.56mm: M416, AUG, QBZ, K2, G36C. SCAR-L 7.62mm: AKM, ACE32, Beryl M762)
+            </h3>
+            <br/>
+            <h3>
+            Random SMG Crate (9mm: MP9, MP5K, Vector 45ACP: UMP-45)
+            </h3>
+            <br/>
+            <h3>
+            Random DMR/SR Crate (5.56mm: QBU, Mini-14, Mk12 7.62mm: Dragunov, SLR, SKS, Kar98k, M24)
+            </h3>
+           
             <ul>
               <li>Phase 1 - 1m + 1m</li>
               <li>Phase 2 - 30s + 1m30s</li>
