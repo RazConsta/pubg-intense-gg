@@ -29,7 +29,7 @@ function MainPageContent() {
     },
     {
       map: "Miramar",
-      locations: [boxz
+      locations: [
         { name: "El Azahar", yellowBoxes: '✔️ 6', blueBoxes: 7 },
         { name: "Los Leones", yellowBoxes: '✔️ 6', blueBoxes: 8 },
         { name: "Monte Nuevo", yellowBoxes: '✔️ 6', blueBoxes: 8 },
